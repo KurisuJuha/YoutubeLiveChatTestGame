@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 39578661}
   - component: {fileID: 39578660}
   m_Layer: 5
-  m_Name: LiveID (1)
+  m_Name: Word
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -786,6 +786,9 @@ MonoBehaviour:
   TitlePanel: {fileID: 449661788}
   GamePanel: {fileID: 140321458}
   IsStarted: 0
+  liveIdInput: {fileID: 2029726471}
+  WordInput: {fileID: 39578660}
+  liveID: 
 --- !u!1 &572871763
 GameObject:
   m_ObjectHideFlags: 0
