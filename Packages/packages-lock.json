@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.baba-s.kogane-system-text-json": {
+      "version": "https://github.com/baba-s/Kogane.System.Text.Json.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "1087d658f293d4ad76727a5fe659a9dede3d4358"
+    },
     "com.unity.2d.animation": {
       "version": "7.0.4",
       "depth": 1,
